@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\bin\Debug\sub_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\bin\Debug\sub_two_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\bin\Debug\sub_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\obj\x86\Debug\sub_two_calc.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\obj\x86\Debug\diff_two_calc.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\obj\x86\Debug\sub_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\obj\x86\Debug\sub_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\diff_two_calc\sub_two_calc\obj\x86\Debug\sub_two_calc.pdb

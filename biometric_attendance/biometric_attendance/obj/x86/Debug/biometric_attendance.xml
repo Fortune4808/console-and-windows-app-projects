@@ -1,0 +1,128 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+biometric_attendance
+</name>
+</assembly>
+<members>
+<member name="P:biometric_attendance.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103775_edit_user_half_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103775_edit_user_half_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103775_edit_user_half_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103775_edit_user_half_icon__1_2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103775_edit_user_half_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103780_profile_user_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103780_profile_user_icon__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._103780_profile_user_icon__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._1cf6b14d2eea4c37dba8bc0ac12235a3_0">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._20230623_064221">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._3669297_arrow_ic_play_icon">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources._3669297_arrow_ic_play_icon1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.afootech_logo2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.Click_to_browse">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.fingerprint">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.ICN_precise_recog">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.image_upload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.image_upload2">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.images">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.images__18_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.logo">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.png_transparent_fingerprint_finger_print_hand_spiral_monochrome_thumbnail__1_">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.png_transparent_fingerprint_finger_print_hand_spiral_monochrome_thumbnail__1_1">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.punchclock_app">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.security_bnr_fp">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:biometric_attendance.My.Resources.Resources.upload">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:biometric_attendance.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>

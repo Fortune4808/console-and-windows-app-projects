@@ -1,0 +1,8 @@
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\obj\x86\Debug\quadratic_calc.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\obj\x86\Debug\quadratic_calc.vbproj.GenerateResource.Cache
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\bin\Debug\quadratic_calc.exe
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\bin\Debug\quadratic_calc.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\bin\Debug\quadratic_calc.xml
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\obj\x86\Debug\quadratic_calc.exe
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\obj\x86\Debug\quadratic_calc.xml
+C:\Users\USER\documents\visual studio 2010\Projects\quadratic_calc\quadratic_calc\obj\x86\Debug\quadratic_calc.pdb

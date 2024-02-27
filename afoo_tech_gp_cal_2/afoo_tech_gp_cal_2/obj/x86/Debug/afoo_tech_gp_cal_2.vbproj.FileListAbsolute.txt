@@ -1,0 +1,16 @@
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\bin\Debug\afoo_tech_gp_cal_2.exe
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\bin\Debug\afoo_tech_gp_cal_2.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\bin\Debug\afoo_tech_gp_cal_2.xml
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.exe
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.xml
+C:\Users\USER\AppData\Local\Temporary Projects\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.exe
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.xml
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\bin\Debug\afoo_tech_gp_cal_2.exe
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\bin\Debug\afoo_tech_gp_cal_2.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\bin\Debug\afoo_tech_gp_cal_2.xml
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\afoo_tech_gp_cal_2\afoo_tech_gp_cal_2\obj\x86\Debug\afoo_tech_gp_cal_2.vbproj.GenerateResource.Cache

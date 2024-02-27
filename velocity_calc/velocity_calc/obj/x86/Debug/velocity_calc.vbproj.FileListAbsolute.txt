@@ -1,0 +1,16 @@
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\bin\Debug\velocity_calc.exe
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\bin\Debug\velocity_calc.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\bin\Debug\velocity_calc.xml
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\obj\x86\Debug\velocity_calc.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\obj\x86\Debug\velocity_calc.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\obj\x86\Debug\velocity_calc.exe
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\obj\x86\Debug\velocity_calc.xml
+C:\Users\USER\AppData\Local\Temporary Projects\velocity_calc\obj\x86\Debug\velocity_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\obj\x86\Debug\velocity_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\obj\x86\Debug\velocity_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\obj\x86\Debug\velocity_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\bin\Debug\velocity_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\bin\Debug\velocity_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\bin\Debug\velocity_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\obj\x86\Debug\velocity_calc.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\velocity_calc\velocity_calc\obj\x86\Debug\velocity_calc.vbproj.GenerateResource.Cache

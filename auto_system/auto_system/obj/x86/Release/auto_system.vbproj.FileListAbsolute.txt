@@ -1,0 +1,3 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Release\auto_system.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Release\auto_system.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Release\auto_system.vbproj.GenerateResource.Cache

@@ -1,0 +1,16 @@
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\bin\Debug\5percent_of_stff_salary.exe
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\bin\Debug\5percent_of_stff_salary.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\bin\Debug\5percent_of_stff_salary.xml
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\obj\x86\Debug\_5percent_of_stff_salary.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.exe
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.xml
+C:\Users\USER\AppData\Local\Temporary Projects\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\bin\Debug\5percent_of_stff_salary.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\bin\Debug\5percent_of_stff_salary.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\bin\Debug\5percent_of_stff_salary.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\obj\x86\Debug\_5percent_of_stff_salary.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\5percent_of_stff_salary\5percent_of_stff_salary\obj\x86\Debug\5percent_of_stff_salary.vbproj.GenerateResource.Cache

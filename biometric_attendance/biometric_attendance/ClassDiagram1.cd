@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="biometric_attendance.RegistrationForm" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQFBUGkAECAEQBAoCQCAAAoGQAggqAAABUBhAIAAgAQ=</HashCode>
+      <FileName>Form1.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="biometric_attendance.BiometricForm" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAigIAAFSAABAAAAACAACAKBAgAIgGBAEAACAAIAAA=</HashCode>
+      <FileName>Form2.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="biometric_attendance.VerificationForm" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAgAEAEKAAAAAAABCAAAgCgAAQYAIBAEAAAAAAAAA=</HashCode>
+      <FileName>Form3.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="biometric_attendance.ClockInForm" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACCgESEAAAAAANCDAAACwAgREAABAMAAAAAAAAA=</HashCode>
+      <FileName>Form4.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="biometric_attendance.ReportForm" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAECAAAQAAAPCDAiACAEAAACCDAIAAAAAAAAA=</HashCode>
+      <FileName>Form5.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="biometric_attendance.My.MyApplication" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="biometric_attendance.My.MySettings" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAQAABAAIAAABAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="biometric_attendance.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="biometric_attendance.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAoAAAIAAGAAAAIAAAJEGQgEUAIAAECAAAAAASIBIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

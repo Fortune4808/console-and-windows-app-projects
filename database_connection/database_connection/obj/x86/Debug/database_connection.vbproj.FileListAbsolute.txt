@@ -1,0 +1,22 @@
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\bin\Debug\database_connection.exe
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\bin\Debug\database_connection.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\bin\Debug\database_connection.xml
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.exe
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.xml
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\bin\Debug\MySql.Data.DLL
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.vbprojResolveAssemblyReference.cache
+C:\Users\USER\AppData\Local\Temporary Projects\database_connection\obj\x86\Debug\database_connection.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.exe
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.xml
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\bin\Debug\database_connection.exe
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\bin\Debug\database_connection.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\bin\Debug\database_connection.xml
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\bin\Debug\MySql.Data.DLL
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.vbprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\database_connection\database_connection\obj\x86\Debug\database_connection.vbproj.GenerateResource.Cache

@@ -1,0 +1,8 @@
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\bin\Debug\staff_salary percent_deducted.exe
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\bin\Debug\staff_salary percent_deducted.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\bin\Debug\staff_salary percent_deducted.xml
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\obj\x86\Debug\staff_salary_percent_deducted.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\obj\x86\Debug\staff_salary percent_deducted.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\obj\x86\Debug\staff_salary percent_deducted.exe
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\obj\x86\Debug\staff_salary percent_deducted.xml
+C:\Users\USER\AppData\Local\Temporary Projects\staff_salary percent_deducted\obj\x86\Debug\staff_salary percent_deducted.pdb

@@ -1,0 +1,16 @@
+C:\Users\USER\AppData\Local\Temporary Projects\date\bin\Debug\date.exe
+C:\Users\USER\AppData\Local\Temporary Projects\date\bin\Debug\date.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\date\bin\Debug\date.xml
+C:\Users\USER\AppData\Local\Temporary Projects\date\obj\x86\Debug\date.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\date\obj\x86\Debug\date.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\date\obj\x86\Debug\date.exe
+C:\Users\USER\AppData\Local\Temporary Projects\date\obj\x86\Debug\date.xml
+C:\Users\USER\AppData\Local\Temporary Projects\date\obj\x86\Debug\date.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\obj\x86\Debug\date.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\obj\x86\Debug\date.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\bin\Debug\date.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\bin\Debug\date.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\bin\Debug\date.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\obj\x86\Debug\date.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\obj\x86\Debug\date.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\date\date\obj\x86\Debug\date.exe

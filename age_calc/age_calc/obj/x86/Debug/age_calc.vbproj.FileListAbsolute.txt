@@ -1,0 +1,16 @@
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\obj\x86\Debug\age_calc.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\obj\x86\Debug\age_calc.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\bin\Debug\age_calc.exe
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\bin\Debug\age_calc.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\bin\Debug\age_calc.xml
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\obj\x86\Debug\age_calc.exe
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\obj\x86\Debug\age_calc.xml
+C:\Users\USER\AppData\Local\Temporary Projects\age_calc\obj\x86\Debug\age_calc.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\obj\x86\Debug\age_calc.exe
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\obj\x86\Debug\age_calc.xml
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\obj\x86\Debug\age_calc.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\bin\Debug\age_calc.exe
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\bin\Debug\age_calc.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\bin\Debug\age_calc.xml
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\obj\x86\Debug\age_calc.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\age_calc\age_calc\obj\x86\Debug\age_calc.vbproj.GenerateResource.Cache

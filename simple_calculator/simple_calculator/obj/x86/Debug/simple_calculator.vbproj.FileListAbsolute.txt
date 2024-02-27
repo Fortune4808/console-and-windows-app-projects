@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\bin\Debug\simple_calculator.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\bin\Debug\simple_calculator.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\bin\Debug\simple_calculator.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\simple_calculator\simple_calculator\obj\x86\Debug\simple_calculator.pdb

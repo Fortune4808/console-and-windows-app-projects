@@ -1,0 +1,3 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\frac_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\frac_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\frac_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.pdb

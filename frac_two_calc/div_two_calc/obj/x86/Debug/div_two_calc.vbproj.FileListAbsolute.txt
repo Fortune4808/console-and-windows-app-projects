@@ -1,0 +1,19 @@
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\bin\Debug\div_two_calc.exe
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\bin\Debug\div_two_calc.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\bin\Debug\div_two_calc.xml
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\obj\x86\Debug\div_two_calc.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\obj\x86\Debug\div_two_calc.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\obj\x86\Debug\div_two_calc.exe
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\obj\x86\Debug\div_two_calc.xml
+C:\Users\USER\AppData\Local\Temporary Projects\div_two_calc\obj\x86\Debug\div_two_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\bin\Debug\div_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\bin\Debug\div_two_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\bin\Debug\div_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\div_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\frac_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\frac_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\frac_two_calc\div_two_calc\obj\x86\Debug\div_two_calc.pdb

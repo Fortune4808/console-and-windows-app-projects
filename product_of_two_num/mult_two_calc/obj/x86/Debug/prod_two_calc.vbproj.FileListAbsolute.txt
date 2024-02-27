@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\obj\x86\Debug\mult_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\obj\x86\Debug\mult_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\obj\x86\Debug\mult_two_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\bin\Debug\mult_two_calc.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\bin\Debug\mult_two_calc.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\bin\Debug\mult_two_calc.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\obj\x86\Debug\mult_two_calc.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\product_of_two_num\mult_two_calc\obj\x86\Debug\prod_two_calc.vbproj.GenerateResource.Cache

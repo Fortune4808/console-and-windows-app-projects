@@ -1,0 +1,19 @@
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\bin\Debug\biometric_enrollment.exe
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\bin\Debug\biometric_enrollment.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\bin\Debug\biometric_enrollment.xml
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\obj\x86\Debug\biometric_enrollment.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\obj\x86\Debug\biometric_enrollment.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\obj\x86\Debug\biometric_enrollment.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\obj\x86\Debug\biometric_enrollment.exe
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\obj\x86\Debug\biometric_enrollment.xml
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_enrollment\obj\x86\Debug\biometric_enrollment.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.exe
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.xml
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\bin\Debug\biometric_enrollment.exe
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\bin\Debug\biometric_enrollment.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\bin\Debug\biometric_enrollment.xml
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.vbprojResolveAssemblyReference.cache
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.Form1.resources
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_enrollment\biometric_enrollment\obj\x86\Debug\biometric_enrollment.vbproj.GenerateResource.Cache

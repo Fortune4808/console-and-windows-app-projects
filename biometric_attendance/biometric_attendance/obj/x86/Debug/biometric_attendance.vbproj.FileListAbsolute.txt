@@ -1,0 +1,24 @@
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\bin\Debug\biometric_attendance.exe
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\bin\Debug\biometric_attendance.pdb
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\bin\Debug\biometric_attendance.xml
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\obj\x86\Debug\biometric_attendance.Form1.resources
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\obj\x86\Debug\biometric_attendance.Resources.resources
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\obj\x86\Debug\biometric_attendance.vbproj.GenerateResource.Cache
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\obj\x86\Debug\biometric_attendance.exe
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\obj\x86\Debug\biometric_attendance.xml
+C:\Users\USER\AppData\Local\Temporary Projects\biometric_attendance\obj\x86\Debug\biometric_attendance.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.exe
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.xml
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\bin\Debug\biometric_attendance.exe
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\bin\Debug\biometric_attendance.pdb
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\bin\Debug\biometric_attendance.xml
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.Resources.resources
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.RegistrationForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.BiometricForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.VerificationForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.ClockInForm.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.ReportForm.resources
+C:\Users\USER\documents\visual studio 2010\Projects\biometric_attendance\biometric_attendance\bin\Debug\MySql.Data.DLL
+C:\Users\USER\Documents\Visual Studio 2010\Projects\biometric_attendance\biometric_attendance\obj\x86\Debug\biometric_attendance.vbprojResolveAssemblyReference.cache

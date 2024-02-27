@@ -1,0 +1,8 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\bin\Debug\staff_salary_ percent_deduct.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\bin\Debug\staff_salary_ percent_deduct.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\bin\Debug\staff_salary_ percent_deduct.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\obj\x86\Debug\staff_salary_percent_deducted.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\obj\x86\Debug\staff_salary_ percent_deduct.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\obj\x86\Debug\staff_salary_ percent_deduct.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\obj\x86\Debug\staff_salary_ percent_deduct.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\staff_salary_ percent_deduct\staff_salary_ percent_deduct\obj\x86\Debug\staff_salary_ percent_deduct.pdb

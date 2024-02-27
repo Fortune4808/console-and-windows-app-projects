@@ -1,0 +1,10 @@
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.Form1.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.vbproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\bin\Debug\auto_system.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\bin\Debug\auto_system.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\bin\Debug\auto_system.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.exe
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.xml
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.pdb
+C:\Users\USER\Documents\Visual Studio 2010\Projects\auto_system\auto_system\obj\x86\Debug\auto_system.vbprojResolveAssemblyReference.cache
